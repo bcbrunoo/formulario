@@ -9,8 +9,8 @@
  {
     width: 100%;
     height: 100vh;
-    background-image: url(![img](https://github.com/bcbrunoo/formulario/assets/141696515/42d86fde-c8ed-4145-a12c-76b4a7db5298)
-);
+    background-image: URL(img.jpg)
+;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
